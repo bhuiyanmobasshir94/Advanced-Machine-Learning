@@ -17,3 +17,22 @@ This course is delivered to you by the people who spent much time competing and 
 We personally are very grateful to Alexander Djakonov, a former top1 at Kaggle, who taught a course on data science and shared a lot of his secrets. His course was a truly exciting journey for us and now this is our time to share our knowledge. Also, we want to specially thank Stanislav Semenov for consulting about study plan, lectures and assignments.
 
 Good luck as you get started and we hope you enjoy the course!
+
+#### Week 1 overview
+
+Welcome to the first week of the "How to Win a Data Science Competition" course! This is a short summary of what you will learn.
+
+Mikhail Trofimov will introduce you to competitive data science. You will learn about competitions' mechanics, the difference between competitions and a real-life data science, overview hardware and software that people usually use in competitions. We will also briefly recap major ML models frequently used in competitions.
+Alexander Guschin will summarize approaches to work with features: preprocessing, generation and extraction. We will see, that the choice of the machine learning model impacts both preprocessing we apply to the features and our approach to generation of new ones. We will also discuss feature extraction from text with Bag Of Words and Word2vec, and feature extraction from images with Convolution Neural Networks.
+Let's go ahead and get started!
+
+1. [Random Forest Algorithm](https://www.datasciencecentral.com/profiles/blogs/random-forests-explained-intuitively)
+2. [Gradient Boosting explained](http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
+3. [Reconstructing pictures with machine learning](http://arogozhnikov.github.io/2016/02/09/DrawingPictureWithML.html)
+4. [Introduction to k-Nearest Neighbors: A powerful Machine Learning Algorithm](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
+5. [vowpal_wabbit](https://github.com/VowpalWabbit/vowpal_wabbit)
+6. [xgboost](https://github.com/dmlc/xgboost)
+7. [LightGBM](https://github.com/Microsoft/LightGBM)
+8. [Interactive demo of simple feed-forward Neural Net](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.07950&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+9. [Example from sklearn with different decision surfaces](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
+10. [Arbitrary order factorization machines](https://github.com/geffy/tffm)
