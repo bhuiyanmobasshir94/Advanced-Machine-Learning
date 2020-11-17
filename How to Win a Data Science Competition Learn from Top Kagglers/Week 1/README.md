@@ -36,3 +36,7 @@ Let's go ahead and get started!
 8. [Interactive demo of simple feed-forward Neural Net](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.07950&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 9. [Example from sklearn with different decision surfaces](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html)
 10. [Arbitrary order factorization machines](https://github.com/geffy/tffm)
+11. [Basic SciPy stack (ipython, numpy, pandas, matplotlib)](https://www.scipy.org/)
+12. [Stand-alone python tSNE package](https://github.com/danielfrg/tsne)
+13. Libraries to work with sparse CTR-like data: [LibFM](http://www.libfm.org/), [LibFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/)
+14. [Blog "datas-frame" (contains posts about effective Pandas usage)](https://tomaugspurger.github.io/)
