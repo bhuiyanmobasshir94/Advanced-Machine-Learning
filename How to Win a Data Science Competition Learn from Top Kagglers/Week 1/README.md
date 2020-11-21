@@ -40,3 +40,8 @@ Let's go ahead and get started!
 12. [Stand-alone python tSNE package](https://github.com/danielfrg/tsne)
 13. Libraries to work with sparse CTR-like data: [LibFM](http://www.libfm.org/), [LibFFM](https://www.csie.ntu.edu.tw/~cjlin/libffm/)
 14. [Blog "datas-frame" (contains posts about effective Pandas usage)](https://tomaugspurger.github.io/)
+15. [Preprocessing in Sklearn](http://scikit-learn.org/stable/modules/preprocessing.html)
+16. [Andrew NG about gradient descent and feature scaling](https://www.coursera.org/learn/machine-learning/lecture/xx3Da/gradient-descent-in-practice-i-feature-scaling)
+17. [Feature Scaling and the effect of standardization for machine learning algorithms](http://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
+18. [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+19. [Discussion of feature engineering on Quora](https://www.quora.com/What-are-some-best-practices-in-Feature-Engineering)
